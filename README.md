@@ -1,2 +1,2 @@
 # ThirdTaskJenkins
-Hurt Me Plenty
+Screenshots of the practical task "Hurt Me Plenty"
