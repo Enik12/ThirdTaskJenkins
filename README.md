@@ -3,6 +3,7 @@ Screenshots of the practical task "Hurt Me Plenty"
 
 ![image (4)](https://user-images.githubusercontent.com/101815927/172007403-e4fc5af2-ebbc-46ac-a8f8-faa9b3c18e9a.png)
 ![image (5)](https://user-images.githubusercontent.com/101815927/172007431-61512f64-b140-4786-8f8c-c9cef6320e8d.png)
+![image (15)](https://user-images.githubusercontent.com/101815927/172008665-7149ed4f-3e22-4d6a-b261-3f173d6f03e9.png)
 ![image (6)](https://user-images.githubusercontent.com/101815927/172007449-72ce1b1a-4d17-4768-b479-b3e1c1d7e95d.png)
 ![image (7)](https://user-images.githubusercontent.com/101815927/172007469-a7d31edc-da6c-4fa4-82fc-f1873d7aa8b5.png)
 ![image (8)](https://user-images.githubusercontent.com/101815927/172007764-b4734239-18e6-42e9-8d5d-c2225f43d895.png)
